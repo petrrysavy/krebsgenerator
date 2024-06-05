@@ -1,6 +1,8 @@
 # krebsgenerator
 Code to generate time series based on Krebs cycle. See the following paper for explanation:
 
+TODO: once published, provide the link
+
 
 ## Requirements
 
